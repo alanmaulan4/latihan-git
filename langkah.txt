@@ -6,9 +6,10 @@ Langkah-langkah latihan GIT
 4. belajar desain
 5. belajar coinmarket cap
 6. belajar youtube
-4. belajar github dan gitlab
-5. belajar historycal
 6. belajar desain
 7. belajar Codeigniter
+8. belajar python
+8. belajar python
+8. belajar python
 8. belajar python
 9. belajar php
