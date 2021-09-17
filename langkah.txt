@@ -3,5 +3,6 @@ Langkah-langkah latihan GIT
 1. belajar membuat repo
 2. belajar branch
 3. belajar fusion
-4. belajar historycal
-5. belajar desain
+4. belajar desain
+5. belajar coinmarket cap
+6. belajar youtube
