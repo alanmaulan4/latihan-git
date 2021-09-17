@@ -1,4 +1,5 @@
 1. Mencoba membuat branch
 2. Mencoba upload video
-3. Mencoba download film
-4. Mencoba lathian terus
+3. Mencoba lathian terus
+4. mencoba membuat film
+5. mencoba menaruh buku
