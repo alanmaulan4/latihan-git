@@ -1,0 +1,6 @@
+Langkah-langkah latihan GIT
+
+1. belajar membuat repo
+2. belajar commit
+3. belajar branch
+4. belajar fusion
