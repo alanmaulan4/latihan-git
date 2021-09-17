@@ -4,3 +4,4 @@ Langkah-langkah latihan GIT
 2. belajar branch
 3. belajar fusion
 4. belajar historycal
+5. belajar desain
