@@ -5,3 +5,6 @@ Langkah-langkah latihan GIT
 3. belajar fusion
 4. belajar historycal
 5. belajar desain
+6. belajar Codeigniter
+7. belajar python
+8. belajar php
